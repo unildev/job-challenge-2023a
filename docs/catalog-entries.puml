@@ -1,0 +1,9 @@
+@startsalt
+title Catalog entries
+{+
+**ISBN** | **Title** | **Author** | **Action**
+--- | --- | --- | ---
+0134494164 | Clean Architecture | Robert Martin | [hold]
+0321125215 | Domain-Driven Design | Eric Evans | [hold]
+}
+@endsalt

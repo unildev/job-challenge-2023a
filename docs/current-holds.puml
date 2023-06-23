@@ -1,0 +1,8 @@
+@startsalt
+title Current holds (patron 1)
+{+
+**ISBN** | **Title** | **Author**
+--- | --- | --- | ---
+0321125215 | Domain-Driven Design | Eric Evans
+}
+@endsalt
