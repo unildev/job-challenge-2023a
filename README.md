@@ -76,7 +76,7 @@ Please, answer the following questions using the provided place. Be as specific 
 Describe your solution in terms of Clean Architecture principles. Which components and from which layer you had to 
 implement? What was the most challenging part of the implementation? Compare and contrast the overall implementation
 presented here to [the original implementation](https://github.com/ddd-by-examples/library). What are the strengths 
-and weaknesses of Use Case driven architecture in your opinion.
+and weaknesses of Use Case driven architecture in your opinion?
 
 ---
 
