@@ -27,7 +27,7 @@ This challenge consists of three parts:
 
 #### Part one, reading
 
-In addition to the reading list mentioned above, please, familiarize yourself with these two articles from our blog.
+In addition to the reading list mentioned above, please, familiarize yourself with these three articles from our blog.
 
 - [Flow of control in Clean Architecture](https://medium.com/unil-ci-software-engineering/flow-of-control-in-clean-architecture-23662dfd24f7)
 - [Separation of Concerns between Use Cases and Entities](https://medium.com/unil-ci-software-engineering/separation-of-concern-between-use-cases-and-entities-e3a86cdee49e)
