@@ -4,9 +4,9 @@ Challenge: Java, 2023(a), senior-level
 This GitHub repository contains the instructions for a challenge to be submitted by candidats for a senior-level Java
 developer/analyst position at the University of Lausanne (DSM-DEV-INT division).
 
-:warning: Important: Please, do not fork the repository mentioned below or publish your solution to this challenge anywhere.
-If you are reading this, it means that you have been contacted personally by a member of DSM-DEV-INT team with specific
-instructions of how to submit your solution.
+:warning: Important: Please, do not fork [gushakov/library-clean](https://github.com/gushakov/library-clean) or publish 
+your solution to this challenge anywhere. If you are reading this, it means that you have been contacted personally by 
+a member of DSM-DEV-INT team with specific instructions of how to submit your solution.
 
 This edition of the challenge first appeared for a job posted in the years 2023.
 
@@ -16,7 +16,7 @@ In order to complete the challenge you just need:
 - JDK v. 17 ([Temurin edition](https://adoptium.net/temurin/releases/), for example)
 - Maven v. 3.5.3 or later
 - IDE of your choice (IntelliJ is strongly recommended for its outstanding refactoring capabilities)
-- Docker runtime (for running Postgres DB provided with the repository with code source)
+- Docker runtime (for running Postgres DB provisioned from `docker-compose.yaml` file in the source repository)
 
 Please, refresh your memory concerning the concepts related to Hexagonal and Clean Architecture. Here is a list of most
 important sources to consult:
