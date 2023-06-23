@@ -37,13 +37,13 @@ You are more than welcome to consult any other articles you may wish and to expl
 
 #### Part two, implementation
 
-In the part one you have seen our implementation of Library domain, available at 
+In the part one, you have seen our implementation of Library domain, available at 
 [gushakov/library-clean](https://github.com/gushakov/library-clean) GitHub repository. Please, make **a private clone**
 (do not fork) of this repository for your personal GitHub user.
 
 As you have noticed in this implementation uses principles of DDD and Clean Architecture. It is not a complete 
 implementation. Only a single use case has been dealt with as an illustration. It is a use case of a patron placing a
-hold on a book. For this use case the models, the use case itself, and the persistence hve been implemented and tested.
+hold on a book. For this use case the models, the use case itself, and the persistence have been implemented and tested.
 
 Your task is to implement the UI for just _this single use case_. Here is how we imagine the interface:
 
