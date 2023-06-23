@@ -41,7 +41,7 @@ In the part one, you have seen our implementation of Library domain, available a
 [gushakov/library-clean](https://github.com/gushakov/library-clean) GitHub repository. Please, make **a private clone**
 (do not fork) of this repository for your personal GitHub user.
 
-As you have noticed in this implementation uses principles of DDD and Clean Architecture. It is not a complete 
+As you have noticed, this implementation uses principles of DDD and Clean Architecture. It is not a complete 
 implementation. Only a single use case has been dealt with as an illustration. It is a use case of a patron placing a
 hold on a book. For this use case the models, the use case itself, and the persistence have been implemented and tested.
 
