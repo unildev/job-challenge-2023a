@@ -1,12 +1,13 @@
 Challenge: Java, 2023(a), senior-level
 ---
 
+_Update_: Please note that [a solution](./solution.md) is available for this chalenge. 
+
 This GitHub repository contains the instructions for a challenge to be submitted by candidats for a senior-level Java
 developer/analyst position at the University of Lausanne (DSM-DEV-INT division).
 
-:warning: Important: Please, do not fork [gushakov/library-clean](https://github.com/gushakov/library-clean) or publish 
-your solution to this challenge anywhere. If you are reading this, it means that you have been contacted personally by 
-a member of DSM-DEV-INT team with specific instructions of how to submit your solution.
+If you are reading this, it means that you have been contacted personally by a member of DSM-DEV-INT team with specific
+instructions of how to submit your solution.
 
 This edition of the challenge first appeared for a job posted in the years 2023.
 
