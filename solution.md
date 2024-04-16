@@ -1,9 +1,8 @@
 ## Solution for job challenge 2023(a)
 
 Source code for the solution is available at [gushakov/library-clean](https://github.com/gushakov/library-clean) GitHub
-repository. It is just one of posible solutions for [job-challenge-2023a](https://github.com/unildev/job-challenge-2023a)
-challenge. We are making it publicly available as of April 2024. Special thanks to all the participants who participated 
-in the challenge and the discussions which followed.
+repository. It is just one of posible solutions for this challenge. We are making it publicly available as of April 2024.
+Special thanks to all the participants who participated in the challenge and the discussions which followed.
 
 _Bugfixes_: There were a couple of small bugs (not intended) in the source code of the challenge. We have corrected them
 since the initial publication of the challenge. Please, consult the commit annotated with
